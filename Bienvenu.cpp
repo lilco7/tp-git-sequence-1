@@ -1,8 +1,10 @@
-// TODO Indiquer ce que fait le programme
+// Afficher un message de bienvenue
+
+#include <iostream>
 
 int main(){
 
-    // TODO Qfficher un message de bienvenue
+    std::count <<  "Bienvenue le monde !" << std::endl;
 
     return 0;
     
